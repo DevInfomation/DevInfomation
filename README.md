@@ -1,4 +1,4 @@
-## Hello there 👋
+## Hello there! 👋
 
 I'm Stefan, a software engineer from Macedonia 🇲🇰.
 
