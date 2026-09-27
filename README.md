@@ -12,8 +12,6 @@ Building, coding and debugging are the 3 moods I'm constantly in.<br/>
 ![](https://streak-stats.demolab.com/?user=DevInfomation&theme=merko&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=DevInfomation&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
-[![](https://komarev.com/ghpvc/?username=DevInfomation&icon=0&color=0)](https://visitcount.itsvg.in)
 
 **Fun facts**:
 - I trying out new keyboards
